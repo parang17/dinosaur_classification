@@ -5,8 +5,8 @@ A machine learning model for native mobile devices to perform dinosaur image cla
 
 ## Image scroller:
 
-To collect training data-set for dinosaur image classification, the image scroller that efficiently collects image data is implemented. The image scroller link is as follows:
-[Google Image Scroller](https://github.com/parang17/Google_image_downloader)
+To collect training data-set for dinosaur image classification, the image scraper that efficiently collects image data is implemented. The image scraper link is as follows:
+[Google Image Scraper](https://github.com/parang17/Google_image_downloader)
 
 ## Train the network:
 For the dinosaur classification problem, it uses mobilenet provided by Tensorflow.
