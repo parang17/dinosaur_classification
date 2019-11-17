@@ -3,7 +3,7 @@
 A machine learning model for native mobile devices to perform dinosaur image classification using TensorFlow Lite. This ML model is integrated with flutter environment for mobile application.
 [Flutter DinoFinder](https://github.com/iRyanBell/flutter_dinofinder) The code is based on Google Tensorflow model (The link is in Reference section).  
 
-## Image scroller:
+## Image scraper:
 
 To collect training data-set for dinosaur image classification, the image scraper that efficiently collects image data is implemented. The image scraper link is as follows:
 [Google Image Scraper](https://github.com/parang17/Google_image_downloader)
