@@ -9,6 +9,7 @@ To collect training data-set for dinosaur image classification, the image scroll
 [Google Image Scroller](https://github.com/parang17/Google_image_downloader)
 
 ## Train the network:
+For the dinosaur classification problem, it uses mobilenet provided by Tensorflow.
 In the terminal, 
 ```
 IMAGE_SIZE=224
@@ -26,6 +27,7 @@ python -m scripts.retrain \
 ```
 
 ## Test the network:
+In the terminal, 
 ```
 python -m scripts.label_image \
     --graph=tf_files/retrained_graph.pb  \
