@@ -34,6 +34,10 @@ python -m scripts.label_image \
     --image=data/Dimetrodon/Dimetrodon_0001.jpg
 ```
 
+## Note - Create tflite model:
+
+Change the file name from optimized_graph.lite to optimized_graph.tflite
+
 
 ## Reference:
 
