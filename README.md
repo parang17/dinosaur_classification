@@ -30,7 +30,7 @@ python -m scripts.retrain \
 python -m scripts.label_image \
     --graph=tf_files/retrained_graph.pb  \
     --image=data/Dimetrodon/Dimetrodon_0001.jpg
-    ```
+```
 
 
 ## Reference:
