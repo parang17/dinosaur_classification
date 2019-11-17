@@ -35,4 +35,4 @@ python -m scripts.label_image \
 
 ## Reference:
 
-[TensorFlow For Poets](https://codelabs.developers.google.com/codelabs/tensorflow-for-poets/index.html#0)
+[TensorFlow For Poets] (https://codelabs.developers.google.com/codelabs/tensorflow-for-poets/index.html#0)
